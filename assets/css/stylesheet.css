@@ -1,1 +1,26 @@
-/*this is the stylesheet*/
+.box1 {
+    height: 450px;
+    width: 800px;
+    background-color: #5995da;
+    padding:20px;
+    border-radius:5px;
+    margin:20px auto;
+}
+.box2{
+    height:350px;
+    width:600px;
+    background-color: black;
+    margin: 0 auto;
+}
+.headerSteps{
+    text-align:center;
+}
+.directions{
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.subTitle{
+    text-align:center;
+}
